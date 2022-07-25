@@ -10,7 +10,6 @@ Download it from Forum thread to get layout working!
 Note: Pulling from GitHub some files cannot be pushed, like Migration Folder and large files ( videos ).
 Please enter on the URL below and download it from forum thread.
 
-* [Website](https://lepiigortv.com)
 * [Forum Thread](https://opengamescommunity.com/index.php?resources/shadowlands.614/)
 
 
